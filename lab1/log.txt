@@ -1,0 +1,6 @@
+Added new settlement.
+Saved data to file.
+Deleted settlement 'папа'.
+Sorted settlements by name.
+Read data from file.
+Read data from file.
